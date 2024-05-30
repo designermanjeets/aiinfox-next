@@ -14,7 +14,34 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@aiinfox/ai-aboutus": ["libs/ai-aboutus/src/index.ts"],
+      "@aiinfox/ai-aboutus/server": ["libs/ai-aboutus/src/server.ts"],
+      "@aiinfox/ai-corevalues": ["libs/ai-corevalues/src/index.ts"],
+      "@aiinfox/ai-corevalues/server": ["libs/ai-corevalues/src/server.ts"],
+      "@aiinfox/ai-foo": ["libs/ai-foo/src/index.ts"],
+      "@aiinfox/ai-foo/server": ["libs/ai-foo/src/server.ts"],
+      "@aiinfox/ai-hero": ["libs/ai-hero/src/index.ts"],
+      "@aiinfox/ai-hero/server": ["libs/ai-hero/src/server.ts"],
+      "@aiinfox/ai-missionvision": ["libs/ai-missionvision/src/index.ts"],
+      "@aiinfox/ai-missionvision/server": [
+        "libs/ai-missionvision/src/server.ts"
+      ],
+      "@aiinfox/ai-navbar": ["libs/ai-navbar/src/index.ts"],
+      "@aiinfox/ai-navbar/server": ["libs/ai-navbar/src/server.ts"],
+      "@aiinfox/ai-ourexpertise": ["libs/ai-ourexpertise/src/index.ts"],
+      "@aiinfox/ai-ourexpertise/server": ["libs/ai-ourexpertise/src/server.ts"],
+      "@aiinfox/ai-ourjournal": ["libs/ai-ourjournal/src/index.ts"],
+      "@aiinfox/ai-ourjournal/server": ["libs/ai-ourjournal/src/server.ts"],
+      "@aiinfox/ai-ourservices": ["libs/ai-ourservices/src/index.ts"],
+      "@aiinfox/ai-ourservices/server": ["libs/ai-ourservices/src/server.ts"],
+      "@aiinfox/ai-projects": ["libs/ai-projects/src/index.ts"],
+      "@aiinfox/ai-projects/server": ["libs/ai-projects/src/server.ts"],
+      "@aiinfox/ai-shared": ["libs/ai-shared/src/index.ts"],
+      "@aiinfox/ai-shared/server": ["libs/ai-shared/src/server.ts"],
+      "@aiinfox/ai-whyaiinfox": ["libs/ai-whyaiinfox/src/index.ts"],
+      "@aiinfox/ai-whyaiinfox/server": ["libs/ai-whyaiinfox/src/server.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

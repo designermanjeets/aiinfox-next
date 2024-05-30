@@ -1,0 +1,9 @@
+{
+  "name": "ai-corevalues",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/ai-corevalues/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project ai-corevalues --web",
+  "targets": {}
+}

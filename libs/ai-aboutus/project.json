@@ -1,0 +1,9 @@
+{
+  "name": "ai-aboutus",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/ai-aboutus/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project ai-aboutus --web",
+  "targets": {}
+}

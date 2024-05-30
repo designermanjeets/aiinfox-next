@@ -1,0 +1,9 @@
+{
+  "name": "ai-navbar",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/ai-navbar/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project ai-navbar --web",
+  "targets": {}
+}
