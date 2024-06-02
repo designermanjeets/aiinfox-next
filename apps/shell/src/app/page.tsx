@@ -1,6 +1,6 @@
 import styles from './page.module.scss';
 import Home from './home/page';
-import AboutusPage from './aboutus/page';
+import AboutusPage from './about-us/page';
 
 export default function Index() {
   /*

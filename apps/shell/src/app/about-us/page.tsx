@@ -10,7 +10,7 @@ async function getProjects() {
 
 /* eslint-disable-next-line */
 export interface AboutusProps {
-  artist: any[];
+  artist?: any[];
 }
 
 export default async function AboutusPage(props: AboutusProps) {
